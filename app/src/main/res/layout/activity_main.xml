@@ -21,8 +21,8 @@
 
     <Button
         android:id="@+id/clickButton"
-        android:layout_width="100dp"
-        android:layout_height="59dp"
+        android:layout_width="102dp"
+        android:layout_height="46dp"
         android:layout_marginTop="20dp"
         android:onClick="clickFunction"
         android:text="Click me"
@@ -35,8 +35,8 @@
 
     <EditText
         android:id="@+id/myTextField"
-        android:layout_width="405dp"
-        android:layout_height="48dp"
+        android:layout_width="371dp"
+        android:layout_height="40dp"
         android:ems="10"
         android:hint="Enter your name"
         android:inputType="textPersonName"
